@@ -11,7 +11,7 @@ The first stop is to create the accounts we will be using:
    * RStudio
    * Firefox
    * Zotero plugin for Firefox
-   * Github Desktop
+   * Git
 
 4. Now you can connect your Github account to your RStudio installation by following these istructions.
  
