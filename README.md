@@ -6,11 +6,12 @@ The first stop is to create the accounts we will be using:
 
 1. Start by creating a personal [Github account](https://github.com/join?source=header) *if you do not already have one*.
 2. Then create a [Twitter](www.twitter.com) account *if you do not already have one*.
-3. Next you will need to install for the software we will be using if you do not already have them installed (if you do have them make sure they are the latest versions). Links and instructions can be found in the [Tools reporsitory](https://github.com/data-science-in-ed/Tools) for:
+3. Next you will need to install the software we will be using (if you already have them installed make sure they are the latest versions). Links and instructions can be found in the [Tools reporsitory](https://github.com/data-science-in-ed/Tools) for:
    * R
    * RStudio
    * Firefox
    * Zotero plugin for Firefox
+   * Github Desktop
 
 4. Now you can connect your Github account to your RStudio installation by following these istructions.
  
