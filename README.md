@@ -13,10 +13,11 @@ The first stop is to create the accounts we will be using:
    * Zotero plugin for Firefox
    * Git
 
-4. Now you can connect your Github account to your RStudio installation by following these istructions.
+4. **Complete the user survey by 2/4/16** 
  
-5. **Complete the user survey by 2/4/16** 
- 
-6. Once you have completed the survey, you can be added to the class Github organization and you will have full functionality within the course site. 
+5. Once you have completed the survey, you can be added to the class Github organization and you will have full functionality within the course site.
+
+6. Now you can connect your Github account to your RStudio installation by following the istructions in the Tools repository. 
+
 
 7. Download Zotero references file and [upload into Zotero](https://www.zotero.org/support/getting_stuff_into_your_library) 
