@@ -13,7 +13,7 @@ The first stop is to create the accounts we will be using:
    * Zotero plugin for Firefox
    * Git
 
-4. **Complete the user survey by 2/4/16** 
+4. **Complete the user survey by 2/1/16** (Will be emailed out on 1/30/16) 
  
 5. Once you have completed the survey, you can be added to the class Github organization and you will have full functionality within the course site.
 
