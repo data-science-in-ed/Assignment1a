@@ -1,6 +1,6 @@
 # Assignment 1a
 
-In this assignment you will be setting up the software and online tools that you will be using throught this course. Within the [tools repository](https://github.com/data-science-in-ed/Tools) there are links and instructions to relevant sites. If you have any problems, you can tweet them using the hashtag #DSE16, or you can create an [*issue* within this repository](https://github.com/data-science-in-ed/Assignment1a/issues). 
+In this assignment you will be setting up the software and online tools that you will be using throughout this course. Within the [tools repository](https://github.com/data-science-in-ed/Tools) there are links and instructions to relevant sites. If you have any problems, you can tweet them using the hashtag #DSE16, or you can create an [*issue* within this repository](https://github.com/data-science-in-ed/Assignment1a/issues). 
 
 The first stop is to create the accounts we will be using: 
 
