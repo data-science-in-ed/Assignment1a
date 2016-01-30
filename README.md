@@ -20,4 +20,4 @@ The first stop is to create the accounts we will be using:
 6. Now you can connect your Github account to your RStudio installation by following the istructions in the Tools repository. 
 
 
-7. Download Zotero references file and [upload into Zotero](https://www.zotero.org/support/getting_stuff_into_your_library) 
+7. [Download Zotero references file](https://github.com/data-science-in-ed/Tools) (there is a download zip button on the top right) and [upload into Zotero](https://www.zotero.org/support/getting_stuff_into_your_library) 
